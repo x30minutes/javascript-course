@@ -13,4 +13,8 @@ const person = {
     sayHello(name){
         console.log(`Hello, my name is ${name}`);
     }
+    job:{
+        title: 'developer',
+        company: 'coding addict',
+    },
 }
